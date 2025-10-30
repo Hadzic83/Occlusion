@@ -29,4 +29,5 @@ The application should then be ready to run. Note that it will download the AI m
 
 ```
 python occlusion.py
+deactivate
 ```
