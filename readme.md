@@ -24,3 +24,9 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+The application should then be ready to run. Note that it will download the AI model for offline use the first time you run it.
+
+```
+python occlusion.py
+```
