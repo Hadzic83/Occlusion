@@ -16,3 +16,11 @@ Windows:
 https://visualstudio.microsoft.com
 Install Visual Studio with "Desktop development with C++"
 ```
+
+Once the build tools are available, create a virtual environment and install the necessary Python libraries.
+
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
